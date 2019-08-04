@@ -1,0 +1,14 @@
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\guiga\Desktop\Repositorio\Unit-Testing-CSharp\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
