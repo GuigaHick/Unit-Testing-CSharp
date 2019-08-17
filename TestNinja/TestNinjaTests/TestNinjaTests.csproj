@@ -56,6 +56,7 @@
     <Compile Include="ErrorLogTests.cs" />
     <Compile Include="FizzBuzzTests.cs" />
     <Compile Include="DemeritPointsCalculatorTests.cs" />
+    <Compile Include="StackTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
