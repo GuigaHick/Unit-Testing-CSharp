@@ -1,3 +1,3 @@
-* text=auto
 *.ps1 linguist-detectable=false
-*.cs text diff=csharp
+*.psd1 linguist-detectable=false
+*.psm1 linguist-detectable=false
