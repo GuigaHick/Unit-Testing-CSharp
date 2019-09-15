@@ -72,6 +72,7 @@
     <Compile Include="FizzBuzzTests.cs" />
     <Compile Include="DemeritPointsCalculatorTests.cs" />
     <Compile Include="StackTests.cs" />
+    <Compile Include="EmployeeControllerTests.cs" />
     <Compile Include="VideoServiceTests.cs" />
   </ItemGroup>
   <ItemGroup>
